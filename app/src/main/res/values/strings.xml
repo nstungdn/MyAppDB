@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyAppDB</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lenh">Lệnh</string>
+    <string name="lenh1">Thêm record</string>
+    <string name="dulieu">Dữ liệu</string>
+</resources>
